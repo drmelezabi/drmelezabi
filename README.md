@@ -40,7 +40,11 @@
   <div>
       <h3>About me ✍️</h3>
     <ul>
-      <li>about me</li>
+      <li>orchestra performance Lecturer</li>
+      <li>Ph.D. research merged VR technology with teaching orchestra performance</li>
+      <li>Full Stack Developer</li>
+      <li>Published research on using AR for orchestra performance instruction<i>
+      <li>Developed a mobile app for room booking, incorporating management and supervision rules</li>
     </ul>
   </div>
 
