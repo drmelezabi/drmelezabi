@@ -3,7 +3,7 @@
 
 <body>
   <div style="text-align: center;">
-    <img src="https://media.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif" width="300">
+    <img src="cover.gif" width="300">
   </div>
 
   <h3>Hi there 👋</h3>
