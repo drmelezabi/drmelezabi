@@ -1,37 +1,8 @@
 <!DOCTYPE html>
 <html lang="en">
 
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>GitHub Profile README</title>
-  <style>
-    .centered {
-      text-align: center; /* Center-align content inside the div */
-    }
-    h1,
-    h2,
-    h3 {
-        color: #333;
-    }
-    ul {
-        list-style-type: disc;
-        margin-bottom: 15px;
-    }
-    ol {
-        list-style-type: decimal;
-        margin-bottom: 15px;
-    }
-    li {
-        color: #007bff;
-        text-decoration: none;
-        font-size: 15px
-    }
-  </style>
-</head>
-
 <body>
-  <div class="centered">
+  <div style="text-align: center;">
     <img src="https://media.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif" width="300">
   </div>
 
@@ -47,7 +18,6 @@
       <li>Developed a mobile app for room booking, incorporating management and supervision rules</li>
     </ul>
   </div>
-
 
 </body>
 
