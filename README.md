@@ -1,3 +1,5 @@
+<img src="[https://github.com/username/repo/blob/master/folder/animation.gif](https://media.giphy.com/media/doXBzUFJRxpaUbuaqz/giphy.gif)" width="100" height="50" />
+
 ### Hi there 👋
 
 <!--
