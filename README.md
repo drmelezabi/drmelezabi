@@ -11,11 +11,10 @@
   <div>
       <h3>About me ✍️</h3>
     <ul>
-      <li>orchestra performance Lecturer</li>
+      <li>orchestra performance Lecturer @ Damietta University</li>
       <li>Ph.D. research merged VR technology with teaching orchestra performance</li>
-      <li>Full Stack Developer</li>
-      <li>Published research on using AR for orchestra performance instruction<i>
-      <li>Developed a mobile app for room booking, incorporating management and supervision rules</li>
+      <li>Interested in VR/AR implementations in Education and specially in music Education<i>
+      <li>Interested in creatingai-tools using AI for musicians and Music students<i>
     </ul>
   </div>
 
