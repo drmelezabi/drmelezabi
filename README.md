@@ -14,7 +14,7 @@
       <li>orchestra performance Lecturer @ Damietta University</li>
       <li>Ph.D. research merged VR technology with teaching orchestra performance</li>
       <li>Interested in VR/AR implementations in Education and specially in music Education<i>
-      <li>Interested in creatingai-tools using AI for musicians and Music students<i>
+      <li>Interested in creatingai-tools using AI for musicians and Music students</li>
     </ul>
   </div>
 
